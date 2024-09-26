@@ -1,9 +1,181 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "xis": [
+    {
+      "id": 1,
+      "snack": "xis",
+      "name": "Xis Salada",
+      "description": "O xis salada recheado com 190g de carne suculenta, queijo, alface, tomate.",
+      "price": 25.5,
+      "image": "https://i.imgur.com/CJj9pHh.jpeg"
+    },
+    {
+      "id": 2,
+      "snack": "xis",
+      "name": "Xis Bacon",
+      "description": "O xis bacon recheado com 180g de carne suculenta, queijo, alface, tomate e bacon.",
+      "price": 23.5,
+      "image": "https://i.imgur.com/CJj9pHh.jpeg"
+    },
+    {
+      "id": 3,
+      "snack": "xis",
+      "name": "Xis Coração",
+      "description": "O xis bacon recheado com 180g de carne suculenta, queijo, alface, tomate.",
+      "price": 23,
+      "image": "https://i.imgur.com/CJj9pHh.jpeg"
+    },
+    {
+      "id": 4,
+      "snack": "xis",
+      "name": "Xis Galinha",
+      "description": "O xis bacon recheado com 180g de carne de galinha, queijo, alface, tomate.",
+      "price": 20.0,
+      "image": "https://i.imgur.com/CJj9pHh.jpeg"
+    },
+    {
+      "id": 5,
+      "snack": "xis",
+      "name": "Xis Calabresa",
+      "description": "O xis calabresa recheado com 180g de calabresa, queijo, alface, tomate.",
+      "price": 20,
+      "image": "https://i.imgur.com/CJj9pHh.jpeg"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+
+  "bokaos": [
+    {
+      "id": 1,
+      "snack": "bokao",
+      "name": "Bokão",
+      "description": "bokao salada recheado com 180g de carne suculenta, queijo, alface, tomate.",
+      "price": 25,
+      "image": "https://imgur.com/gallery/hamburguer-QZ7oIp4"
+    },
+    {
+      "id": 2,
+      "snack": "bokao",
+      "name": "Bokão",
+      "description": "bokao salada recheado com 180g de carne suculenta, queijo, alface, tomate.",
+      "price": 28.5,
+      "image": "https://imgur.com/gallery/hamburguer-QZ7oIp4"
+    },
+    {
+      "id": 3,
+      "snack": "bokao",
+      "name": "Bokão",
+      "description": "bokao salada recheado com 180g de carne suculenta, queijo, alface, tomate.",
+      "price": 24,
+      "image": "https://imgur.com/gallery/hamburguer-QZ7oIp4"
+    },
+    {
+      "id": 4,
+      "snack": "bokao",
+      "name": "Bokão",
+      "description": "bokao salada recheado com 180g de carne suculenta, queijo, alface, tomate.",
+      "price": 30,
+      "image": "https://imgur.com/gallery/hamburguer-QZ7oIp4"
+    },
+    {
+      "id": 5,
+      "snack": "bokao",
+      "name": "Bokão",
+      "description": "bokao salada recheado com 180g de carne suculenta, queijo, alface, tomate.",
+      "price": 20.5,
+      "image": "https://imgur.com/gallery/hamburguer-QZ7oIp4"
+    },
+    {
+      "id": 6,
+      "snack": "bokao",
+      "name": "Bokão",
+      "description": "bokao salada recheado com 180g de carne suculenta, queijo, alface, tomate.",
+      "price": 25.5,
+      "image": "https://imgur.com/gallery/hamburguer-QZ7oIp4"
+    },
+    {
+      "id": 7,
+      "snack": "bokao",
+      "name": "Bokão",
+      "description": "bokao salada recheado com 180g de carne suculenta, queijo, alface, tomate.",
+      "price": 35.0,
+      "image": "https://imgur.com/gallery/hamburguer-QZ7oIp4"
+    },
+    {
+      "id": 8,
+      "snack": "bokao",
+      "name": "Bokão",
+      "description": "bokao salada recheado com 180g de carne suculenta, queijo, alface, tomate.",
+      "price": 33.5,
+      "image": "https://imgur.com/gallery/hamburguer-QZ7oIp4"
+    },
+    {
+      "id": 9,
+      "snack": "bokao",
+      "name": "Bokão",
+      "description": "bokao salada recheado com 180g de carne suculenta, queijo, alface, tomate.",
+      "price": 30,
+      "image": "https://imgur.com/gallery/hamburguer-QZ7oIp4"
+    }
   ],
-  "profile": { "name": "typicode" }
+
+  "bebidas": [
+    {
+      "id": 1,
+      "snack": "bebida",
+      "name": "Coca-Cola 2L",
+      "description": "A tradicional Coca-Cola que a família brasileira adora.",
+      "price": 12,
+      "image": "https://i.imgur.com/Lg3aKhf.jpg"
+    },
+    {
+      "id": 2,
+      "snack": "bebida",
+      "name": "Guaraná Antarctica",
+      "description": "O irresistível e saboroso Guaraná Antarctica em sua versão de latinha.",
+      "price": 6.5,
+      "image": "https://i.imgur.com/hOBrOIm.jpg"
+    },
+    {
+      "id": 3,
+      "snack": "bebida",
+      "name": "Suco de Abacaxi",
+      "description": "Suco natural de abacaxi com leves incrementos de algumas hortaliças para fortificar sua saúde.",
+      "price": 8,
+      "image": "https://i.imgur.com/VV9qTMh.jpg"
+    },
+    {
+      "id": 4,
+      "snack": "bebida",
+      "name": "Suco de Laranja",
+      "description": "Suco natural de laranja para você que é amante dessa fruta.",
+      "price": 8,
+      "image": "https://i.imgur.com/2Lf2gHy.jpg"
+    }
+  ],
+
+  "tabuas": [
+    {
+      "id": 1,
+      "snack": "tabua",
+      "name": "Tábua",
+      "description": "Tábua de carne",
+      "price": 4.5,
+      "image": "https://imgur.com/gallery/carne-asada-curly-fries-ygOh79w"
+    },
+    {
+      "id": 2,
+      "snack": "tabua",
+      "name": "Tábua",
+      "description": "Tábua de carne",
+      "price": 6,
+      "image": "https://imgur.com/gallery/carne-asada-curly-fries-ygOh79w"
+    },
+    {
+      "id": 3,
+      "snack": "tabua",
+      "name": "Tábua",
+      "description": "Tábua de carne",
+      "price": 7,
+      "image": "https://imgur.com/gallery/carne-asada-curly-fries-ygOh79w"
+    },
+  ]
 }
